@@ -3,6 +3,10 @@ body {
     margin: 0px;
 }
 
+p {
+    color: rgba(0, 0, 0, 0.478);
+}
+
 h1 {
     font-size: 50px;
 }
